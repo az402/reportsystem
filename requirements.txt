@@ -1,0 +1,3 @@
+django==1.8.2
+django-suit==0.2.7
+Unipath==0.2.1
